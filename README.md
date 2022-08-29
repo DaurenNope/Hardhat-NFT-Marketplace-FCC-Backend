@@ -11,12 +11,11 @@
 
 This is a repo showing how to make an NFT Marketplace from scratch!
 
-Create decentralized NFT Marketplace
-Functions:
-List NFTs 
-Buy the NFTs
-Cancel a listing
-Update Price
-Withdraw payment for NFT
+#Create decentralized NFT Marketplace
+#Functions:
+#List NFTs 
+#Buy the NFTs
+#Cancel a listing
+#Update Price
+#Withdraw payment for NFT
 
-# Hardhat-NFT-Marketplace-FCC-Backend
