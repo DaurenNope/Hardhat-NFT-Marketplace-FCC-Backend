@@ -10,12 +10,12 @@
 <br/>
 
 This is a repo showing how to make an NFT Marketplace from scratch!
-
-# Create decentralized NFT Marketplace
-# Functions:
+<p align="left>
+# Create decentralized NFT Marketplace </br>
+# Functions: </br>
 # List NFTs 
 # Buy the NFTs
 # Cancel a listing
 # Update Price
 # Withdraw payment for NFT
-
+          </p>
