@@ -2,8 +2,8 @@
 
 <br/>
 <p align="center">
-<img src="./img/hero.png" width="500" alt="Hardhat NextJS Marketplace">
-  
+<img src="https://user-images.githubusercontent.com/79125145/187284466-4835f709-5e18-42ae-97ed-a98f0a23af8b.png" width="500" alt="Hardhat NextJS Marketplace">
+
 
 </a>
 </p>
